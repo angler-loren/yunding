@@ -1,0 +1,115 @@
+.box1 {
+  width: 600px;
+  height: 1060px;
+  background-color: aqua;
+  position: relative;
+  margin: 0 auto;
+}
+.header {
+  width: 560px;
+  height: 45px;
+
+  position: absolute;
+  top: 25px;
+  left: 20px;
+  right: 20px;
+  /* background-color: black; */
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.button {
+  height: 45px;
+  width: 45px;
+  border-radius: 20px;
+  /* background-color: white; */
+}
+.head {
+  width: 125px;
+  height: 30px;
+  margin-top: 5px;
+  /* background-color: white; */
+}
+.profile-photo {
+  height: 150px;
+  width: 150px;
+  border-radius: 100px;
+  /* background-color: yellow; */
+  margin: 0 auto;
+  position: absolute;
+  top: 200px;
+  left: 220px;
+  right: 230px;
+}
+
+.box2 {
+  width: 600px;
+  height: 300px;
+  /* background-color: yellow; */
+  position: absolute;
+  left: 0;
+  top: 400px;
+  display: flex;
+  flex-direction: column;
+}
+.first {
+  width: 200px;
+  height: 45px;
+  /* background-color: violet; */
+  position: relative;
+  left: 50px;
+  font-size: 24px;
+  color: white;
+}
+.line {
+  width: 450px;
+  height: 5px;
+  margin-left: 50px;
+  margin-bottom: 15px;
+}
+.row {
+  width: 450px;
+  height: 70px;
+  position: absolute;
+  /* background-color: red; */
+  top: 645px;
+  left: 55px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.pass {
+  width: 70px;
+  height: 45px;
+  /* background-color: violet; */
+  position: relative;
+  top: 20px;
+  font-size: 24px;
+  color: white;
+}
+.signup {
+  width: 420px;
+  height: 80px;
+  position: absolute;
+  /* background-color: aquamarine; */
+  top: 780px;
+  left: 70px;
+}
+.end {
+  width: 300px;
+  height: 40px;
+  position: absolute;
+  top: 870px;
+  left: 150px;
+  margin: 0 auto;
+  /* background-color: blue; */
+}
+.photo {
+  width: 80px;
+  height: 40px;
+  position: absolute;
+  top: 90px;
+  left: 40px;
+  font-size: 24px;
+  color: whitesmoke;
+}

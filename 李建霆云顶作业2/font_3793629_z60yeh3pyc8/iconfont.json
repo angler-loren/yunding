@@ -1,0 +1,16 @@
+{
+  "id": "3793629",
+  "name": "test",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "16055328",
+      "name": "十字加号2",
+      "font_class": "shizijiahao2",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    }
+  ]
+}
