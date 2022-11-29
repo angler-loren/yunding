@@ -28,6 +28,8 @@
   width: 125px;
   height: 30px;
   margin-top: 5px;
+  font-size: 24px;
+  color: #d0e9ec;
   /* background-color: white; */
 }
 .profile-photo {
@@ -65,7 +67,7 @@
   width: 450px;
   height: 5px;
   margin-left: 50px;
-  margin-bottom: 15px;
+  margin-bottom: 30px;
 }
 .row {
   width: 450px;
@@ -86,14 +88,36 @@
   top: 20px;
   font-size: 24px;
   color: white;
+}.pass1 {
+  width: 70px;
+  height: 45px;
+  /* background-color: violet; */
+  position: relative;
+  top: 20px;
+  font-size: 24px;
+  color:turquoise;
 }
 .signup {
   width: 420px;
   height: 80px;
   position: absolute;
-  /* background-color: aquamarine; */
+  background-color:whitesmoke;
+  border-radius: 40px;
   top: 780px;
   left: 70px;
+  display: flex;
+  justify-content:center;
+  align-items: center;
+}
+.content{
+  width: 100px;
+  height: 50px;
+  position: absolute;
+  top: 20px;
+  margin:auto;
+  font-size: 26px;
+  color: #706d9f;
+  
 }
 .end {
   width: 300px;
@@ -102,6 +126,8 @@
   top: 870px;
   left: 150px;
   margin: 0 auto;
+  font-size: 20px;
+  color: whitesmoke;
   /* background-color: blue; */
 }
 .photo {
